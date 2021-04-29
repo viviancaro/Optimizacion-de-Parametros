@@ -1,4 +1,4 @@
-# PROYECTO 4: OPTIMIZACIÓN DE PARÁMETROS
+# OPTIMIZACIÓN DE PARÁMETROS
 El objetivo de este proyecto corto se centra en optimizar los parámetros sobre el modelo Decision Tree utilizado en el proyecto Modelos de Predicción, por ello se sigue trabajando con el dataset filtrado y transformado a partir de los datos de propiedades en venta publicadas en el portal Properati. Se utiliza el RMSE (raíz del error cuadrático medio) como métrica.
 
 El proceso que se realiza es:
